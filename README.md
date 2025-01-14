@@ -11,10 +11,7 @@ Hi! I’m **Sorour Fatemi**, a researcher and AI/ML expert with a deep passion f
 
 - 🌱 **My Journey**:
   I welcome you to join me on a journey of discovery and innovation in AI and data science!  
-  - Follow me on [GitHub](https://github.com/sorourf), [Medium](#), and [LinkedIn](https://linkedin.com/in/sorourfatemi) to stay updated with more engaging and practical content.  
-  - Explore my portfolio of AI and data science projects [here](#)—each inspired by curiosity, motivation, and the drive to push boundaries.  
-  - Feel free to connect for a chat (coffee or virtual) to discuss shared interests, research topics, or potential collaborations!
-
+  - Follow me on [GitHub](https://github.com/sorourf), [Medium](https://medium.com/@sorour.f), and [LinkedIn](https://linkedin.com/in/sorourfatemi) to stay updated with more engaging and practical content.  
 
 - 📬 **Let’s Connect**:  
   - [LinkedIn](https://linkedin.com/in/sorourfatemi)  
