@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**sorourf/sorourf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m **Dr. Sorour Fatemi**, a researcher and AI/ML expert with a deep passion for exploring and enhancing the capabilities of large language models (LLMs). My work is driven by curiosity, innovation, and a commitment to solving real-world problems in finance and beyond.
 
-Here are some ideas to get you started:
+- 🧠 **Expertise**:
+  - **LLM Alignment**
+  - **Retrieval-Augmented Generation (RAG)**
+  - **Multi-Agent Frameworks**
+  - **Hybrid Reasoning**
+  - **Explainability in AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 **My Journey**:
+  I welcome you to join me on a journey of discovery and innovation in AI and data science!  
+  - Follow me on [GitHub](https://github.com/sorourf), [Medium](#), and [LinkedIn](https://linkedin.com/in/sorourfatemi) to stay updated with more engaging and practical content.  
+  - Explore my portfolio of AI and data science projects [here](#)—each inspired by curiosity, motivation, and the drive to push boundaries.  
+  - Feel free to connect for a chat (coffee or virtual) to discuss shared interests, research topics, or potential collaborations!
+
+- 🌍 **Location**: Currently based in San Diego, California.
+
+- 📬 **Let’s Connect**:  
+  - [LinkedIn](https://linkedin.com/in/sorourfatemi)  
+  - [Email](mailto:sorourf@example.com)  
+  - [Portfolio](#)
+
+---
+
+Feel free to explore my repositories, share feedback, and collaborate on exciting new projects!
+
