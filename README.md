@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I’m **Dr. Sorour Fatemi**, a researcher and AI/ML expert with a deep passion for exploring and enhancing the capabilities of large language models (LLMs). My work is driven by curiosity, innovation, and a commitment to solving real-world problems in finance and beyond.
+Hi! I’m **Sorour Fatemi**, a researcher and AI/ML expert with a deep passion for exploring and enhancing the capabilities of large language models (LLMs). My work is driven by curiosity, innovation, and a commitment to solving real-world problems in finance and beyond.
 
 - 🧠 **Expertise**:
   - **LLM Alignment**
