@@ -10,7 +10,7 @@ Hi! I’m **Sorour Fatemi**, a researcher and AI/ML expert with a deep passion f
   - **Explainability in AI**
 
 - 🌱 **My Journey**:
-  I welcome you to join me on a journey of discovery and innovation in AI and data science!  
+  I welcome you to join me on a journey of discovery and innovation in LLMs!  
   - Follow me on [GitHub](https://github.com/sorourf), [Medium](https://medium.com/@sorour.f), and [LinkedIn](https://linkedin.com/in/sorourfatemi) to stay updated with more engaging and practical content.  
 
 - 📬 **Let’s Connect**:  
