@@ -19,3 +19,38 @@ Hi! I’m **Sorour Fatemi**, a researcher and AI/ML expert with a deep passion f
 
 Feel free to explore my repositories, share feedback, and collaborate on exciting new projects!
 
+---
+
+## 📘 Notebooks
+
+### **LLM Pre-Training**
+
+#### Positional Encoding
+- Dive into advanced techniques for encoding positional information in LLM architectures.
+
+[📓 View the Positional Encoding Notebook](01_positional_encoding)
+
+#### Layer Normalization
+- Explore innovative methods for enhancing model stability and training efficiency.
+
+[📓 View the Layer Normalization Notebook](02_layer_normalization)
+
+---
+
+### **Retrieval-Augmented Generation (RAG) Techniques**
+
+#### Chunking Strategies
+- Learn and explore different chunking methods used in the indexing phase of RAG:
+  - Fixed-size chunking
+  - Recursive chunking
+  - Semantic chunking
+
+[📓 View the Chunking Strategies Notebook](01_RAG_Chunking_Strategies.ipynb)
+
+#### LLM Alignment (Upcoming)
+- Insights and techniques for aligning LLMs with human values and intents.
+
+#### Multi-Agent LLMs (Upcoming)
+- Demonstrating the use of multi-agent frameworks in enhancing reasoning and decision-making.
+
+---
